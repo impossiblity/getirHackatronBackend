@@ -1,0 +1,25 @@
+{
+  "name": "getir",
+  "version": "1.0.0",
+  "description": "Preliminary Backend Task for Getir Hackatron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impossiblity/getirHackatronBackend.git"
+  },
+  "author": "Kaan Bulut Tekelioglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impossiblity/getirHackatronBackend/issues"
+  },
+  "homepage": "https://github.com/impossiblity/getirHackatronBackend#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "mongodb": "^2.2.24"
+  }
+}
